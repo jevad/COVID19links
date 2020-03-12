@@ -3,8 +3,6 @@ COVID-19 and SARS-CoV-2 links
 
 You will find here some links I have collected concerning COVID-19 and SARS-CoV-2.  I am not a medical doctor, osteopath or any other kind of health professional, so nothing on this page should be considered medical advice; none of the links should be considered medical recommendations.
 
-# Dave's Coronavirus Links:
-
 
 ## Definitions:
 * COVID-19 is a disease, caused by the SARS-CoV-2 virus.
