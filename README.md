@@ -39,10 +39,12 @@ You will find here some links I have collected concerning COVID-19 and SARS-CoV-
 ### Public health:
 * https://news.harvard.edu/gazette/story/2020/03/public-urged-to-ramp-up-social-distancing-increase-coronavirus-tests/
 * https://www.flattenthecurve.com/
+* https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
+* https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/covid-19-video-updates/
 * https://afludiary.blogspot.com/2020/03/a-tale-of-two-outbreaks-hong-kong-italy.html
 * EPA approved cleaners list: https://www.epa.gov/sites/production/files/2020-03/documents/sars-cov-2-list_03-03-2020.pdf ( see, also: https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html , for more cleaning/hygiene information)
 
-### All about SARS-CoV-2 and COVID-19:
+### About SARS-CoV-2 and COVID-19:
 * **This doctor answers ALL the questions!  Updates every day!  Highly recommended!**  https://www.youtube.com/channel/UCG-iSMVtWbbwDDXgXXypARQ
 * Preliminary (unreviewed) study on how long SAR-CoV-2 can live "in the wild": https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf
 * https://www.youtube.com/channel/UCMSsLqxqvZsNXi0Z-VjN89A
@@ -62,10 +64,12 @@ You will find here some links I have collected concerning COVID-19 and SARS-CoV-
 
 
 ## Commentary and discussion of reasonable quality:
+* https://www.bloomberg.com/opinion/articles/2020-03-05/how-bad-is-the-coronavirus-let-s-compare-with-sars-ebola-flu
 * https://www.youtube.com/watch?v=cZFhjMQrVts ( the full interview is here, https://www.youtube.com/watch?v=E3URhJx0NSw )
 * https://www.theatlantic.com/ideas/archive/2020/03/who-gets-hospital-bed/607807/
 * https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-cancel-everything/607675/
 * https://afludiary.blogspot.com/ (includes regular updates of official stats and so forth)
+* Let's hope so: https://www.bloomberg.com/opinion/articles/2020-03-09/america-s-coronavirus-response-has-started-slow-but-will-improve
 
 
 ## Random interesting news items:
@@ -73,12 +77,15 @@ You will find here some links I have collected concerning COVID-19 and SARS-CoV-
 * https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Faf5379b4-63ac-11ea-b3f3-fe4680ea68b5?fit=scale-down&quality=highest&source=next&width=700
 * https://www.hsph.harvard.edu/news/hsph-in-the-news/the-latest-on-the-coronavirus/
 * Seattle woman with coronavirus describes her experience:  https://www.timesnownews.com/international/article/us-woman-who-recovered-from-coronavirus-shares-her-experience/563858 ( video: https://www.youtube.com/watch?v=48XsmoEXDPA )
+* https://www.stltoday.com/news/archives/st-louisans-died-from-the-spanish-flu-in-the-city/article_aa4b3141-696f-5849-bf37-ad1fcacb7f3f.html
+* https://nypost.com/2020/03/12/broadway-shutting-down-all-productions-over-coronavirus-pandemic/
 
 ### Elsewhere:
 * British expat in China describes his experience: https://www.youtube.com/watch?v=G9oqvJ3iXGI 
 * Britain has plenty of TP: https://www.bbc.com/news/av/business-51823128/coronavirus-don-t-panic-be-community-minded-says-loo-roll-boss
 * Medical rationing in Italy: https://www.youtube.com/watch?v=qqx-suCj15U
 * Ex-pat in Italy (friend of a friend): https://www.nbcnews.com/health/health-news/american-coronavirus-lockdown-italy-it-s-surreal-it-s-dystopian-n1155576
+* https://www.npr.org/sections/goatsandsoda/2020/03/12/814522489/singapore-wins-praise-for-its-covid-19-strategy-the-u-s-does-not
 
 
 ## Official stuff:
@@ -92,6 +99,7 @@ You will find here some links I have collected concerning COVID-19 and SARS-CoV-
 ### Elsewhere:
 * https://www.who.int/emergencies/diseases/novel-coronavirus-2019
 * http://www.siaarti.it/SiteAssets/News/COVID19%20-%20documenti%20SIAARTI/SIAARTI%20-%20Covid19%20-%20Raccomandazioni%20di%20etica%20clinica.pdf
+* https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/covid-19-information/
 * https://www.nhs.uk/conditions/coronavirus-covid-19/
 * https://ipac-canada.org/coronavirus-resources.php
 * https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
